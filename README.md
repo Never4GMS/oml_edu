@@ -1,2 +1,3 @@
-# oml_edu
-Machine learning Education repository
+# Machine Learning
+
+OTUS. Machine learning course homeworks
